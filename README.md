@@ -1,6 +1,10 @@
 # covid19pv
 Dades en obert de la pandèmia per COVID19 al País Valencià
 
+# Visualització estadística
+
+URL: https://www.veusveus.cat/covid19pv/
+
 # Orígens de les dades
 
 ## País Valencià 
