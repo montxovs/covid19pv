@@ -9,8 +9,12 @@ Elaboració pròpia a partir de mineria de dades de comunicats de premsa a http:
 ## Regions
 
 * Catalunya, Euskadi i Madrid: https://github.com/databrew/covid19
-* Itàlia: https://github.com/CSSEGISandData/COVID-19
+* Itàlia i Espanya: https://github.com/CSSEGISandData/COVID-19
 
-## Càlculs.
+## Càlculs
 
 Elaboració pròpia.
+
+## Notes
+
+Les dades de Catalunya i del País Valencià es publiquen a data de la seua publicació per part de les seues autoritats sanitàries de les Generalitats respectives, que normalment és un dia abans de les informacions per part del Ministeri de Sanitat d'Espanya.
