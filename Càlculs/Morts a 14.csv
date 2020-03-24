@@ -1,39 +1,36 @@
 Dies,Catalunya,Madrid,Euskadi,País Valencià,Espanya,Itàlia
-Thu Feb 20 2020 00:00:00 GMT+0100 (Central European Standard Time),,,,,,0
-Fri Feb 21 2020 00:00:00 GMT+0100 (Central European Standard Time),,,,,,1
-Sat Feb 22 2020 00:00:00 GMT+0100 (Central European Standard Time),,,,,,2
-Sun Feb 23 2020 00:00:00 GMT+0100 (Central European Standard Time),,,,,,3
-Mon Feb 24 2020 00:00:00 GMT+0100 (Central European Standard Time),,,,1,0,7
-Tue Feb 25 2020 00:00:00 GMT+0100 (Central European Standard Time),,,,1,0,10
-Wed Feb 26 2020 00:00:00 GMT+0100 (Central European Standard Time),,,,1,0,12
-Thu Feb 27 2020 00:00:00 GMT+0100 (Central European Standard Time),,,,1,0,17
-Fri Feb 28 2020 00:00:00 GMT+0100 (Central European Standard Time),,,,1,0,21
-Sat Feb 29 2020 00:00:00 GMT+0100 (Central European Standard Time),,,,1,0,29
-Sun Mar 01 2020 00:00:00 GMT+0100 (Central European Standard Time),,,,1,0,34
-Mon Mar 02 2020 00:00:00 GMT+0100 (Central European Standard Time),,,,1,0,52
-Tue Mar 03 2020 00:00:00 GMT+0100 (Central European Standard Time),,,,1,1,79
-Wed Mar 04 2020 00:00:00 GMT+0100 (Central European Standard Time),,,,1,2,107
-Thu Mar 05 2020 00:00:00 GMT+0100 (Central European Standard Time),,,,1,3,148
-Fri Mar 06 2020 00:00:00 GMT+0100 (Central European Standard Time),,,,1,5,196
-Sat Mar 07 2020 00:00:00 GMT+0100 (Central European Standard Time),,,,1,10,231
-Sun Mar 08 2020 00:00:00 GMT+0100 (Central European Standard Time),,,,1,17,363
-Mon Mar 09 2020 00:00:00 GMT+0100 (Central European Standard Time),1,8,5,0,28,456
-Tue Mar 10 2020 00:00:00 GMT+0100 (Central European Standard Time),3,21,6,0,35,621
-Wed Mar 11 2020 00:00:00 GMT+0100 (Central European Standard Time),3,31,6,0,54,815
-Thu Mar 12 2020 00:00:00 GMT+0100 (Central European Standard Time),4,56,11,0,55,810
-Fri Mar 13 2020 00:00:00 GMT+0100 (Central European Standard Time),4,81,14,2,133,1245
-Sat Mar 14 2020 00:00:00 GMT+0100 (Central European Standard Time),6,86,14,2,195,1412
-Sun Mar 15 2020 00:00:00 GMT+0100 (Central European Standard Time),8,213,23,3,289,1775
-Mon Mar 16 2020 00:00:00 GMT+0100 (Central European Standard Time),18,355,36,12,342,2106
-Tue Mar 17 2020 00:00:00 GMT+0100 (Central European Standard Time),41,390,40,12,532,2424
-Wed Mar 18 2020 00:00:00 GMT+0100 (Central European Standard Time),55,498,53,21,621,2871
-Thu Mar 19 2020 00:00:00 GMT+0100 (Central European Standard Time),82,628,71,23,827,3257
-Fri Mar 20 2020 00:00:00 GMT+0100 (Central European Standard Time),122,804,85,32,1038,3836
-Sat Mar 21 2020 00:00:00 GMT+0100 (Central European Standard Time),191,1021,97,49,1365,4594
-Sun Mar 22 2020 00:00:00 GMT+0100 (Central European Standard Time),245,1263,120,68,2182,5476
-Mon Mar 23 2020 00:00:00 GMT+0100 (Central European Standard Time),339,1535,133,94,2696,6077
-Tue Mar 24 2020 00:00:00 GMT+0100 (Central European Standard Time),,,,,,
-Wed Mar 25 2020 00:00:00 GMT+0100 (Central European Standard Time),,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
+20/02/2020,,,,,,0
+21/02/2020,,,,,,1
+22/02/2020,,,,,,2
+23/02/2020,,,,,,3
+24/02/2020,,,,1,0,7
+25/02/2020,,,,1,0,10
+26/02/2020,,,,1,0,12
+27/02/2020,,,,1,0,17
+28/02/2020,,,,1,0,21
+29/02/2020,,,,1,0,29
+01/03/2020,,,,1,0,34
+02/03/2020,,,,1,0,52
+03/03/2020,,,,1,1,79
+04/03/2020,,,,1,2,107
+05/03/2020,,,,1,3,148
+06/03/2020,,,,1,5,196
+07/03/2020,,,,1,10,231
+08/03/2020,,,,1,17,363
+09/03/2020,1,8,5,0,28,456
+10/03/2020,3,21,6,0,35,621
+11/03/2020,3,31,6,0,54,815
+12/03/2020,4,56,11,0,55,810
+13/03/2020,4,81,14,2,133,1245
+14/03/2020,6,86,14,2,195,1412
+15/03/2020,8,213,23,3,289,1775
+16/03/2020,18,355,36,12,342,2106
+17/03/2020,41,390,40,12,532,2424
+18/03/2020,55,498,53,21,621,2871
+19/03/2020,82,628,71,23,827,3257
+20/03/2020,122,804,85,32,1038,3836
+21/03/2020,191,1021,97,49,1365,4594
+22/03/2020,244,1255,115,68,2165,5113
+23/03/2020,336,1514,127,94,2668,5621
+24/03/2020,,,,115,,
+25/03/2020,,,,,,
