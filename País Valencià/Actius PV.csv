@@ -1,31 +1,6 @@
-,Wed Mar 18 2020 00:00:00 GMT+0100 (Central European Standard Time),Thu Mar 19 2020 00:00:00 GMT+0100 (Central European Standard Time),Fri Mar 20 2020 00:00:00 GMT+0100 (Central European Standard Time),Sat Mar 21 2020 00:00:00 GMT+0100 (Central European Standard Time),Sun Mar 22 2020 00:00:00 GMT+0100 (Central European Standard Time),Mon Mar 23 2020 00:00:00 GMT+0100 (Central European Standard Time),Tue Mar 24 2020 00:00:00 GMT+0100 (Central European Standard Time),Wed Mar 25 2020 00:00:00 GMT+0100 (Central European Standard Time),,,
-Actius CST,52,57,102,121,149,203,220,250,,,
-Actius VLC,357,499,600,725,866,1024,1237,1398,,,
-Actius ALC,277,320,348,440,487,541,556,773,,,
-Actius no residents,2,2,2,2,3,3,2,2,,,
-TOTAL ACTIUS,726,921,1105,1363,1604,1771,2015,2423,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,Wed Mar 18 2020 00:00:00 GMT+0100 (Central European Standard Time),Thu Mar 19 2020 00:00:00 GMT+0100 (Central European Standard Time),Fri Mar 20 2020 00:00:00 GMT+0100 (Central European Standard Time),Sat Mar 21 2020 00:00:00 GMT+0100 (Central European Standard Time),Sun Mar 22 2020 00:00:00 GMT+0100 (Central European Standard Time),Mon Mar 23 2020 00:00:00 GMT+0100 (Central European Standard Time),Tue Mar 24 2020 00:00:00 GMT+0100 (Central European Standard Time),Wed Mar 25 2020 00:00:00 GMT+0100 (Central European Standard Time)
-,,,Castelló,52,57,102,121,149,203,220,250
-,,,València,357,499,600,725,866,1024,1237,1398
-,,,Alacant,277,320,348,440,487,541,556,773
-,,,No residents,2,2,2,2,3,3,2,2
-,,,,,,,,,,,
-,,,,Castelló,València,Alacant,No residents,,,,
-,,,Wed Mar 18 2020 00:00:00 GMT+0100 (Central European Standard Time),52,357,277,2,,,,
-,,,Thu Mar 19 2020 00:00:00 GMT+0100 (Central European Standard Time),57,499,320,2,,,,
-,,,Fri Mar 20 2020 00:00:00 GMT+0100 (Central European Standard Time),102,600,348,2,,,,
-,,,Sat Mar 21 2020 00:00:00 GMT+0100 (Central European Standard Time),121,725,440,2,,,,
-,,,Sun Mar 22 2020 00:00:00 GMT+0100 (Central European Standard Time),149,866,487,3,,,,
-,,,Mon Mar 23 2020 00:00:00 GMT+0100 (Central European Standard Time),203,1024,541,3,,,,
-,,,Tue Mar 24 2020 00:00:00 GMT+0100 (Central European Standard Time),220,1237,556,2,,,,
-,,,Wed Mar 25 2020 00:00:00 GMT+0100 (Central European Standard Time),250,1398,773,2,,,,
+,Wed Mar 18 2020 00:00:00 GMT+0100 (Central European Standard Time),Thu Mar 19 2020 00:00:00 GMT+0100 (Central European Standard Time),Fri Mar 20 2020 00:00:00 GMT+0100 (Central European Standard Time),Sat Mar 21 2020 00:00:00 GMT+0100 (Central European Standard Time),Sun Mar 22 2020 00:00:00 GMT+0100 (Central European Standard Time),Mon Mar 23 2020 00:00:00 GMT+0100 (Central European Standard Time),Tue Mar 24 2020 00:00:00 GMT+0100 (Central European Standard Time),Wed Mar 25 2020 00:00:00 GMT+0100 (Central European Standard Time),Thu Mar 26 2020 00:00:00 GMT+0100 (Central European Standard Time)
+Actius CST,52,57,102,121,149,203,220,250,355
+Actius VLC,357,499,600,725,866,1024,1237,1398,1680
+Actius ALC,277,320,348,440,487,541,556,773,941
+Actius no residents,2,2,2,2,3,3,2,2,0
+TOTAL ACTIUS,726,921,1105,1363,1604,1771,2015,2423,2976
